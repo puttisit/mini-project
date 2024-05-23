@@ -1,4 +1,9 @@
 # Getting Started with Create React App
+เป็น Web App การทำบล๊อคสำหรับการท่องเที่ยว
+นายพุฒิสิทธิ์  เพื่อตระกูล
+หน่วยงาน : Desktop Support
+ฟีเจอร์ : สามารถ เพิ่มลบ ข้อมูลได้ และแสดงข้อมูลบนหน้า Webapp
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
